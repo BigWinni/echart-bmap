@@ -13,7 +13,8 @@
     "element-ui": "^2.13.2",
     "js-cookie": "^2.2.1",
     "vue": "^2.6.11",
-    "vue-baidu-map": "^0.21.22"
+    "vue-baidu-map": "^0.21.22",
+    "vue-echarts": "^5.0.0-beta.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
